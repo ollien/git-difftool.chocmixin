@@ -1,0 +1,12 @@
+{
+	"name":"git-difftool.chocmixin",
+	"version":"0.0.1",
+	"decription":"Runs git difftool at the current location.".
+	"main":"init.js",
+	"repsitory":{
+		"type":"git",
+		"url":"https://github.com/ollien/git-difftool.chocmixin"
+	},
+	"homepage":"http://www.ollien.com",
+	"license":"MIT"
+}
